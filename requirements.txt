@@ -1,2 +1,2 @@
-import numpy as np
-import matplotlib.pyplot as plt
+numpy=='1.19.1'
+matplotlib=='3.3.1'
