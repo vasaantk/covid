@@ -23,6 +23,7 @@ if len(usrQuery) == 0:
 pltDiff = False
 if '--diff' in usrQuery:
     pltDiff = True
+    usrQuery.remove('--diff')
 
 
 
