@@ -1,8 +1,9 @@
 # Comments
-south africa, 57.78e6
+# south africa, 57.78e6
 victoria, australia, 6.359e6
 # united kingdom, 66.65e6
 singapore, 5.639e6
+# burma, 53.71e6
 # us, 328.2e6
 # new zealand, 4.886e6
 # tasmania, australia, 515000
