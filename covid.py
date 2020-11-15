@@ -158,5 +158,6 @@ if not pltDiff and not pops:
 
 plt.xticks(rotation= 25)
 plt.xlabel('Date')
-plt.legend()
+# plt.legend(bbox_to_anchor=(0.001,1), loc="upper left")
+plt.legend(loc="upper left")
 plt.show()
